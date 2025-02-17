@@ -23,14 +23,23 @@ The model successfully suggests restaurants based on user preferences and rating
 Used MongoDB Atlas to store and manage music data retrieved from the Spotify API.
 
 ### Project Description: 
-Collected and processed large volumes of music data in batches for efficient analysis.
-### Spotify App Creation: 
-Set up a Spotify Developer app and connected it using Spotify's SDK.
-### New Releases Data: 
-Retrieved new release data from the Spotify API for featured artists.
-### Data Exploration: 
-Explored and analyzed the MongoDB collection, focusing on albums from featured artists.
-### MongoDB Collection Management: 
-Created and managed new MongoDB collections for storing relevant music data.
-### Interactive Visualization: 
-Built an interactive map using Folium to visualize geographic data related to the music collection
+This project integrates MongoDB with the Spotify API to implement batch processing and analyze music-related data. It retrieves new release data from Spotify, stores it in MongoDB, and explores albums from featured artists. Additionally, an interactive map is created using Folium for data visualization. 
+
+### Technologies Used:
+- Python
+- MongoDB
+- Spotify API
+- Folium
+
+### Steps:
+
+1. Set up MongoDB Atlas client to manage data storage.
+2. Create and connect to a Spotify app using the Spotify SDK.
+3. Retrieve new release data from the Spotify API.
+4. Store and explore the data in MongoDB collections.
+5. Analyze albums from featured artists and store relevant data.
+6. Build an interactive map using Folium to visualize data.
+
+### Result:
+The project successfully integrates Spotify data into MongoDB, processes it efficiently using batch processing techniques, and visualizes key data points on an interactive map.
+
