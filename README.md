@@ -19,6 +19,9 @@ This project uses Yelp data to build a restaurant recommendation system. It uses
 ### Result:
 The model successfully suggests restaurants based on user preferences and ratings.
 
+### Link to the Project:
+[Project1_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/Restaurant_Locator_System.ipynb)
+
 # MongoDB & Spotify API Integration: 
 Used MongoDB Atlas to store and manage music data retrieved from the Spotify API.
 
@@ -43,3 +46,5 @@ This project integrates MongoDB with the Spotify API to implement batch processi
 ### Result:
 The project successfully integrates Spotify data into MongoDB, processes it efficiently using batch processing techniques, and visualizes key data points on an interactive map.
 
+### Link to the Project
+[Project2_Link]()
