@@ -20,6 +20,7 @@ This project uses Yelp data to build a restaurant recommendation system. It uses
 The model successfully suggests restaurants based on user preferences and ratings.
 
 ### Link to the Project:
+### Jupyter File Link for Restaurant Locator Project:
 [Project1_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/Restaurant_Locator_System.ipynb)
 
 # MongoDB & Spotify API Integration: 
@@ -47,4 +48,5 @@ This project integrates MongoDB with the Spotify API to implement batch processi
 The project successfully integrates Spotify data into MongoDB, processes it efficiently using batch processing techniques, and visualizes key data points on an interactive map.
 
 ### Link to the Project
-[Project2_Link]()
+### Jupyter File link for Mongo DB Project:
+[Project2_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/MongoDB_Project.ipynb)
