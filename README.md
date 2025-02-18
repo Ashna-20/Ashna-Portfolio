@@ -1,4 +1,31 @@
 # Ashna-Portfolio
+
+# Credit Scoring Prediction Project
+
+### Project Description:
+This project aims to predict financial distress by analyzing historical credit data. Using machine learning, model predicts if a person might struggle to repay their credit. By analyzing past financial data, the model helps banks and lenders make better decisions and reduce risk.
+
+### Technologies Used:
+Programming Language: Python
+Libraries & Frameworks:
+- Pandas & NumPy (Data Processing)
+- Matplotlib & Seaborn (Data Visualization)
+- Scikit-learn (Machine Learning)
+- XGBoost & LightGBM (Boosting Algorithms)
+
+### Steps
+1. Loaded the dataset and handled missing values through imputation or removal.
+2. Compared different models (Logistic Regression, Random Forest.) and trained them with fine-tuned parameters.
+3. Evaluated models using metrics like AUC-ROC, accuracy, and precision to select the best performer.
+4. Post-Processing & Bias Mitigation
+
+### Result: 
+The model have good predictive performance
+
+### Link to the Project
+### Jupyter File Link for Credit Score Project:
+[Project1_Link]()
+
 # Restaurant Recommendation System
 
 ### Project Description:
@@ -21,7 +48,7 @@ The model successfully suggests restaurants based on user preferences and rating
 
 ### Link to the Project:
 ### Jupyter File Link for Restaurant Locator Project:
-[Project1_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/Restaurant_Locator_System.ipynb)
+[Project2_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/Restaurant_Locator_System.ipynb)
 
 # MongoDB & Spotify API Integration: 
 Used MongoDB Atlas to store and manage music data retrieved from the Spotify API.
@@ -49,4 +76,4 @@ The project successfully integrates Spotify data into MongoDB, processes it effi
 
 ### Link to the Project
 ### Jupyter File link for Mongo DB Project:
-[Project2_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/MongoDB_Project.ipynb)
+[Project3_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/MongoDB_Project.ipynb)
