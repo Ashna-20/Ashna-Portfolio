@@ -24,7 +24,7 @@ The model have good predictive performance
 
 ### Link to the Project
 ### Jupyter File Link for Credit Score Project:
-[Project1_Link]()
+[Project1_Link](https://github.com/Ashna-20/Ashna-Portfolio/blob/main/Credit_Scoring_Model_Development.ipynb)
 
 # Restaurant Recommendation System
 
